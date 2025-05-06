@@ -24,10 +24,10 @@ No setup beyond clicking a few buttons in chat
 ## 📸 Screenshots
 
 
-![image]()
+![image](https://github.com/KseniiaKarpovaQA/telegrambot/blob/main/TestCardMasterBot/static/greeting.png)
 
 
-![image]()
+![image](https://github.com/KseniiaKarpovaQA/telegrambot/blob/main/TestCardMasterBot/static/menu.png)
 
 
 ## 💻 Built With

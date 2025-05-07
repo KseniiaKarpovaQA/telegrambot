@@ -3,7 +3,7 @@ from telebot import TeleBot, types
 from faker import Faker
 
 
-bot = TeleBot(token='7580395787:AAHo2Y5OdU5XD6HyG0tTDPZWST7n69F-9sE', parse_mode='html')
+bot = TeleBot(token='', parse_mode='html')
 faker = Faker()
 
 card_type_keybaord = types.ReplyKeyboardMarkup(resize_keyboard=True)
